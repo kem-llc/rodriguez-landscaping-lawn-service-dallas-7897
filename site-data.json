@@ -1,0 +1,326 @@
+{
+  "business": {
+    "name": "Rodriguez Landscaping & Lawn service",
+    "shortName": "Rodriguez Landscaping",
+    "tagline": "Dallas Lawn Care Done Right",
+    "niche": "Landscaper / Lawn Care",
+    "phone": "(214) 778-7897",
+    "address": "6853 Larmanda St, Dallas, TX 75231",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 7am–6pm, Sat: 8am–2pm",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Rodriguez Landscaping & Lawn Service | Dallas, TX | (214) 778-7897",
+    "description": "Expert landscaping and lawn care in Dallas, TX. From mowing to hardscaping, trust Rodriguez Landscaping for reliable, quality service. Call (214) 778-7897."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Landscaping Pros",
+      "headline": "Transform Your Yard with Professional Lawn Care",
+      "subheadline": "Reliable, affordable landscaping services tailored to your Dallas home.",
+      "primaryCta": "Get Free Quote",
+      "secondaryCta": "See Our Work"
+    },
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Years Serving Dallas"
+      },
+      {
+        "value": "500+",
+        "label": "Happy Homeowners"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      },
+      {
+        "value": "4.9",
+        "label": "Avg. Rating"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Complete Care",
+        "title": "Full-Service Lawn Maintenance",
+        "body": "From weekly mowing to seasonal cleanups, we keep your yard looking its best all year. Our team uses top-grade equipment and eco-friendly practices.",
+        "bullets": [
+          "Weekly mowing & edging",
+          "Leaf removal & mulching",
+          "Fertilization & weed control"
+        ],
+        "reverse": false,
+        "cardLabel": "Service",
+        "cardTitle": "Lawn Maintenance",
+        "cardBody": "Regular care that saves you time and keeps your curb appeal high."
+      },
+      {
+        "eyebrow": "Hardscaping",
+        "title": "Custom Patios, Walkways & More",
+        "body": "Add value and beauty to your property with custom stonework, pavers, and retaining walls. We design and build outdoor living spaces you'll love.",
+        "bullets": [
+          "Paver patios & walkways",
+          "Retaining walls",
+          "Outdoor kitchens & fire pits"
+        ],
+        "reverse": true,
+        "cardLabel": "Project",
+        "cardTitle": "Hardscaping",
+        "cardBody": "Durable, beautiful installations that transform your backyard into an oasis."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyChooseUs": [
+      {
+        "title": "Local Expertise",
+        "description": "We know Dallas soil, climate, and plants. Your lawn gets care that's tailored to our region."
+      },
+      {
+        "title": "Reliable & Punctual",
+        "description": "We show up on time, every time. No surprises, just consistent service you can count on."
+      },
+      {
+        "title": "Affordable Pricing",
+        "description": "Quality landscaping doesn't have to break the bank. We offer competitive rates with no hidden fees."
+      },
+      {
+        "title": "Eco-Friendly Practices",
+        "description": "We use sustainable methods and products to keep your yard green and the planet cleaner."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Rodriguez transformed our overgrown yard into a beautiful space. They were professional, on time, and the price was fair. Highly recommend!",
+        "author": "Maria G.",
+        "role": "Lake Highlands homeowner"
+      },
+      {
+        "quote": "We've been using them for two years now. Our lawn has never looked better. The team is friendly and always goes the extra mile.",
+        "author": "James T.",
+        "role": "White Rock resident"
+      },
+      {
+        "quote": "They built a stunning patio for us. The craftsmanship is top-notch and they completed the project ahead of schedule. Five stars!",
+        "author": "Lisa M.",
+        "role": "M Streets homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for a Greener, More Beautiful Yard?",
+      "subheadline": "Contact us today for a free, no-obligation quote.",
+      "primaryCta": "Get Free Quote",
+      "secondaryCta": "Call (214) 778-7897"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer a full range of landscaping and lawn care services to keep your Dallas property looking its best. From routine maintenance to custom hardscaping, our team delivers quality and reliability."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Lawn Mowing & Maintenance",
+      "shortDescription": "Regular mowing, edging, and trimming to keep your lawn healthy and neat.",
+      "longDescription": "Our lawn maintenance program covers weekly or bi-weekly mowing, precise edging along walkways and driveways, and trimming around trees and fences. We also blow off clippings and debris for a clean finish. With flexible scheduling and eco-friendly practices, your lawn will thrive.",
+      "benefits": [
+        "Consistent, manicured appearance",
+        "Saves you time and effort",
+        "Promotes healthier grass growth",
+        "Customizable schedule"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your lawn size, grass type, and condition to create a maintenance plan."
+        },
+        {
+          "title": "Mowing & Edging",
+          "description": "Our crew mows at the optimal height and edges for sharp lines."
+        },
+        {
+          "title": "Cleanup",
+          "description": "We blow clippings off hard surfaces and remove debris for a polished look."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I mow my lawn?",
+          "answer": "Typically once a week during the growing season. We'll adjust based on weather and grass growth."
+        },
+        {
+          "question": "Do you provide the equipment?",
+          "answer": "Yes, we bring all necessary mowers, trimmers, and blowers. No need for you to store anything."
+        }
+      ],
+      "slug": "lawn-mowing-maintenance"
+    },
+    {
+      "icon": "02",
+      "title": "Landscape Design & Installation",
+      "shortDescription": "Custom landscape designs including plants, trees, and flower beds.",
+      "longDescription": "Our design team works with you to create a landscape that reflects your style and fits your property. We handle everything from plant selection to installation, including trees, shrubs, perennials, and mulch. We focus on drought-tolerant and native plants for low-maintenance beauty.",
+      "benefits": [
+        "Personalized design tailored to your taste",
+        "Increased property value",
+        "Low-maintenance plant options",
+        "Professional installation with warranty"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your vision, budget, and site conditions."
+        },
+        {
+          "title": "Design Plan",
+          "description": "We create a detailed layout with plant choices and hardscape elements."
+        },
+        {
+          "title": "Installation",
+          "description": "Our team brings the design to life with precise planting and finishing touches."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a typical installation take?",
+          "answer": "Depending on the scope, most projects are completed in 1-3 days."
+        },
+        {
+          "question": "Do you offer maintenance for new plantings?",
+          "answer": "Yes, we offer follow-up care to ensure your plants establish well."
+        }
+      ],
+      "slug": "landscape-design-installation"
+    },
+    {
+      "icon": "03",
+      "title": "Hardscaping: Patios & Walkways",
+      "shortDescription": "Beautiful stone patios, walkways, and retaining walls for outdoor living.",
+      "longDescription": "Enhance your outdoor space with custom hardscaping. We specialize in paver patios, natural stone walkways, retaining walls, and outdoor kitchens. Our skilled masons ensure durable, level installations that withstand Dallas weather. From modern to rustic, we bring your vision to life.",
+      "benefits": [
+        "Adds usable outdoor living space",
+        "Increases home value",
+        "Low maintenance and long-lasting",
+        "Customizable designs and materials"
+      ],
+      "process": [
+        {
+          "title": "Design & Material Selection",
+          "description": "We help you choose pavers, stones, and layout to match your home."
+        },
+        {
+          "title": "Site Preparation",
+          "description": "We excavate, grade, and lay a solid base for stability."
+        },
+        {
+          "title": "Installation & Sealing",
+          "description": "Our team installs the hardscape and applies sealant for protection."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a patio installation take?",
+          "answer": "A typical patio takes 2-5 days depending on size and complexity."
+        },
+        {
+          "question": "Do you offer warranties on hardscaping?",
+          "answer": "Yes, we provide a workmanship warranty on all installations."
+        }
+      ],
+      "slug": "hardscaping-patios-walkways"
+    },
+    {
+      "icon": "04",
+      "title": "Seasonal Cleanup & Mulching",
+      "shortDescription": "Spring and fall cleanups, leaf removal, and fresh mulch application.",
+      "longDescription": "Keep your yard tidy through the seasons with our comprehensive cleanup services. We remove leaves, debris, and dead plants, then trim back overgrowth. Our mulching service suppresses weeds, retains moisture, and gives beds a polished look. We use premium hardwood or colored mulch.",
+      "benefits": [
+        "Prepares your yard for each season",
+        "Reduces weed growth",
+        "Improves soil health",
+        "Enhances curb appeal instantly"
+      ],
+      "process": [
+        {
+          "title": "Debris Removal",
+          "description": "We rake leaves, clear flower beds, and haul away yard waste."
+        },
+        {
+          "title": "Pruning & Trimming",
+          "description": "We trim shrubs, trees, and perennials for healthy growth."
+        },
+        {
+          "title": "Mulch Application",
+          "description": "We spread fresh mulch evenly around beds and trees."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of mulch do you use?",
+          "answer": "We offer hardwood, cedar, and colored mulches. You can choose your preference."
+        },
+        {
+          "question": "Do you remove the old mulch first?",
+          "answer": "We typically top-dress over existing mulch unless it's heavily compacted; we can remove if needed."
+        }
+      ],
+      "slug": "seasonal-cleanup-mulching"
+    }
+  ],
+  "about": {
+    "headline": "Dallas' Trusted Landscaping Partner",
+    "mission": "To provide exceptional landscaping services that enhance the beauty and value of Dallas homes through reliable, affordable, and eco-friendly care.",
+    "story": [
+      "Rodriguez Landscaping & Lawn service was founded with a simple mission: bring professional, reliable lawn care to Dallas neighborhoods. Starting with just a mower and a truck, our founder, Carlos Rodriguez, built a reputation for hard work and attention to detail. Over the years, we've grown into a full-service landscaping company serving homeowners across the city.",
+      "Today, our team of skilled landscapers and designers is committed to the same values that started it all: honesty, quality, and customer satisfaction. Whether it's a weekly mow or a complete landscape transformation, we treat every yard as if it were our own."
+    ],
+    "highlight": {
+      "stat": "10+",
+      "label": "Years of Experience"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say, and we stand behind our work."
+      },
+      {
+        "title": "Quality",
+        "description": "We use the best materials and techniques for lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your property and your time with the utmost respect."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to serve and be part of the Dallas community."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Quote Today",
+    "subheadline": "Ready to transform your yard? Reach out and we'll get back to you within 24 hours.",
+    "primaryCta": "Call (214) 778-7897",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Lake Highlands",
+      "White Rock",
+      "M Streets",
+      "Highland Park",
+      "University Park"
+    ]
+  },
+  "social_proof": {
+    "rating": 3.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Landscaper / Lawn Care",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2147787897",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
