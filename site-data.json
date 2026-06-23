@@ -1,40 +1,40 @@
 {
   "business": {
-    "name": "Rodriguez Landscaping & Lawn service",
+    "name": "Rodriguez Landscaping & Lawn Service",
     "shortName": "Rodriguez Landscaping",
-    "tagline": "Expert Landscaping & Lawn Care in Dallas, TX",
+    "tagline": "Premium Outdoor Transformations in Dallas, TX",
     "niche": "Landscaper / Lawn Care",
     "phone": "(214) 778-7897",
     "address": "6853 Larmanda St, Dallas, TX 75231",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7am-6pm, Sat 8am-4pm, Sun Closed",
+    "hours": "Mon–Fri 7am–6pm, Sat 8am–2pm, Sun closed",
     "ctaLabel": "Get a Free Quote",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Rodriguez Landscaping & Lawn Service | Dallas, TX | Free Quotes",
-    "description": "Rodriguez Landscaping & Lawn service offers expert lawn care, landscape design, hardscaping, and irrigation in Dallas, TX. Free estimates. Call (214) 778-7897."
+    "title": "Rodriguez Landscaping & Lawn Service | Dallas, TX | Premium Lawn Care & Design",
+    "description": "Rodriguez Landscaping & Lawn Service in Dallas, TX offers expert lawn maintenance, custom hardscaping, irrigation solutions, and seasonal cleanups. Family-owned, reliable, and affordable. Call (214) 778-7897."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Landscaping Experts",
-      "headline": "Transform Your Outdoor Space with Professional Landscaping",
-      "subheadline": "From lush lawns to stunning hardscapes, we bring your vision to life with reliable, high-quality service.",
+      "eyebrow": "Dallas’s Trusted Landscaping Professionals",
+      "headline": "Transform Your Outdoor Space Into a Masterpiece",
+      "subheadline": "From lush lawns to stunning hardscapes, we deliver premium landscaping services tailored to your Dallas home.",
       "primaryCta": "Get a Free Quote",
       "secondaryCta": "View Our Work"
     },
     "stats": [
       {
-        "value": "15+",
+        "value": "10+",
         "label": "Years Experience"
       },
       {
         "value": "500+",
-        "label": "Projects Completed"
+        "label": "Happy Clients"
       },
       {
         "value": "98%",
-        "label": "Client Satisfaction"
+        "label": "Satisfaction Rate"
       },
       {
         "value": "4.9",
@@ -43,278 +43,278 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Landscape Design",
-        "title": "Designs That Reflect Your Style",
-        "body": "Our team creates personalized landscape plans that enhance your property's beauty and value. We collaborate with you to choose plants, materials, and layouts that fit your taste and budget.",
+        "eyebrow": "Custom Designs",
+        "title": "Landscapes That Reflect Your Style",
+        "body": "Our team combines creativity with functionality to design outdoor spaces that enhance your property’s beauty and value. Whether you envision a modern garden, a native xeriscape, or a family-friendly backyard, we bring your vision to life.",
         "bullets": [
-          "Tailored to your property and preferences",
-          "Expert plant selection for Dallas climate",
-          "3D renderings before construction"
+          "Personalized consultations and 3D renderings",
+          "Native plant selection for Dallas climate",
+          "Sustainable, low-maintenance designs"
         ],
         "reverse": false,
         "cardLabel": "Design Process",
         "cardTitle": "From Concept to Bloom",
-        "cardBody": "We start with a consultation, then design a plan with your input, and finally bring it to life with meticulous installation."
+        "cardBody": "We start with a thorough site assessment, then craft a detailed plan. Our designers collaborate with you every step to ensure the final result exceeds expectations."
       },
       {
-        "eyebrow": "Hardscaping & Outdoor Living",
-        "title": "Beautiful Patios, Walkways & More",
-        "body": "Enhance your outdoor living with custom hardscaping features. We build durable patios, retaining walls, fire pits, and pathways that add function and elegance to your yard.",
+        "eyebrow": "Expert Care",
+        "title": "Lawn Maintenance That Makes a Difference",
+        "body": "Keep your lawn lush and healthy year-round with our comprehensive maintenance programs. We handle mowing, fertilization, weed control, and aeration so you can enjoy a pristine yard without the work.",
         "bullets": [
-          "Natural stone, pavers, and concrete options",
-          "Integrated outdoor kitchens and fire features",
-          "Proper drainage and long-lasting construction"
+          "Weekly or bi-weekly mowing schedules",
+          "Fertilization & weed control tailored to Dallas soil",
+          "Seasonal aeration and overseeding"
         ],
         "reverse": true,
-        "cardLabel": "Hardscape Spotlight",
-        "cardTitle": "Dallas Outdoor Oasis",
-        "cardBody": "Transform your backyard into a resort-like retreat with our custom hardscape designs, perfect for entertaining or relaxing."
+        "cardLabel": "Maintenance Plans",
+        "cardTitle": "Hassle-Free Lawn Care",
+        "cardBody": "Our flexible plans fit your lifestyle and budget. We use eco-friendly products and state-of-the-art equipment to keep your lawn vibrant and healthy."
       }
     ],
-    "whyTitle": "Why Choose Rodriguez Landscaping?",
+    "whyTitle": "Why Dallas Homeowners Choose Us",
     "whyChooseUs": [
       {
-        "title": "Local Expertise",
-        "description": "We understand Dallas's unique soil, climate, and plant varieties, ensuring your landscape thrives year-round."
+        "title": "Locally Owned & Operated",
+        "description": "We’re a family-run business rooted in Dallas. We understand the local climate, soil, and plant varieties, ensuring your landscape thrives."
       },
       {
         "title": "Reliable & Punctual",
-        "description": "We show up on time and finish projects as promised, respecting your schedule and property."
+        "description": "We show up on time and complete projects within the agreed timeline. Your satisfaction is our top priority."
       },
       {
-        "title": "Quality Craftsmanship",
-        "description": "From planting to hardscaping, we use premium materials and proven techniques for lasting results."
+        "title": "Affordable Excellence",
+        "description": "Premium landscaping doesn’t have to break the bank. We offer competitive pricing without compromising quality."
       },
       {
-        "title": "Free Estimates",
-        "description": "Get a detailed, no-obligation quote for your project, with transparent pricing and no hidden fees."
+        "title": "Eco-Conscious Practices",
+        "description": "We prioritize sustainable methods, from water-efficient irrigation to organic fertilizers, reducing environmental impact."
       }
     ],
     "testimonials": [
       {
-        "quote": "Rodriguez transformed our overgrown yard into a beautiful oasis. They listened to our ideas and delivered beyond expectations. Highly recommend!",
+        "quote": "Rodriguez Landscaping transformed our backyard into a beautiful oasis. The team was professional, creative, and completed the project on time. Highly recommend!",
         "author": "Maria G.",
-        "role": "Lakewood Homeowner"
+        "role": "Lakewood homeowner"
       },
       {
-        "quote": "We hired them for a complete hardscape project – patio, walkway, and fire pit. The team was professional, efficient, and the quality is outstanding.",
+        "quote": "We’ve used their lawn maintenance service for over a year. Our yard has never looked better. Reliable, friendly, and fair pricing.",
         "author": "James T.",
-        "role": "White Rock Resident"
+        "role": "White Rock area resident"
       },
       {
-        "quote": "Our lawn has never looked better. Regular maintenance is thorough and reliable. Great communication and fair pricing.",
-        "author": "Linda P.",
-        "role": "M Streets Homeowner"
+        "quote": "The hardscape patio they built is stunning. Great communication and attention to detail. We couldn’t be happier.",
+        "author": "Lisa M.",
+        "role": "Highland Park homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready to Transform Your Yard?",
-      "subheadline": "Contact us today for a free estimate and let's create your dream outdoor space.",
+      "headline": "Ready to Elevate Your Outdoor Living?",
+      "subheadline": "Contact us today for a free consultation and estimate.",
       "primaryCta": "Get a Free Quote",
       "secondaryCta": "Call (214) 778-7897"
     }
   },
   "servicesPage": {
-    "intro": "Rodriguez Landscaping & Lawn service offers a full range of landscaping services in Dallas, TX. From custom design to ongoing maintenance, we provide expert care for your outdoor spaces."
+    "intro": "At Rodriguez Landscaping & Lawn Service, we offer a full range of landscaping solutions to enhance your Dallas property. From design to maintenance, our experienced team delivers quality craftsmanship and personalized service."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Lawn Care & Maintenance",
-      "shortDescription": "Keep your lawn lush and healthy with our comprehensive mowing, fertilization, and weed control services.",
-      "longDescription": "Our lawn care program is designed to give Dallas homeowners a vibrant, weed-free lawn year-round. We offer weekly or bi-weekly mowing, seasonal fertilization, aeration, overseeding, and targeted weed control. Using eco-friendly products and proper techniques, we ensure your grass stays thick and green through Texas heat.",
+      "title": "Lawn Maintenance",
+      "shortDescription": "Keep your lawn healthy and beautiful with our comprehensive care programs.",
+      "longDescription": "Our lawn maintenance services include mowing, edging, fertilization, weed control, aeration, and overseeding. We tailor schedules to your lawn’s needs, using premium equipment and eco-friendly products. Whether weekly or bi-weekly, we ensure your yard stays lush and vibrant year-round.",
       "benefits": [
-        "Consistent, professional mowing with sharp blades",
-        "Customized fertilization schedule for Dallas soil",
-        "Weed prevention and removal for a pristine look",
-        "Free lawn evaluation with every service"
+        "Consistent, professional care",
+        "Healthier, greener grass",
+        "Time savings for you",
+        "Increased curb appeal"
       ],
       "process": [
         {
-          "title": "Initial Assessment",
-          "description": "We inspect your lawn for grass type, soil health, and problem areas."
+          "title": "Assessment",
+          "description": "We evaluate your lawn’s condition, soil type, and grass species to create a customized care plan."
         },
         {
-          "title": "Custom Plan",
-          "description": "We create a tailored maintenance schedule including mowing, feeding, and weed control."
+          "title": "Scheduled Service",
+          "description": "Our crew arrives on designated days to perform mowing, trimming, and treatments as planned."
         },
         {
-          "title": "Ongoing Care",
-          "description": "Our team visits regularly to mow, treat, and monitor your lawn's health."
+          "title": "Ongoing Monitoring",
+          "description": "We adjust treatments seasonally and address any issues promptly to maintain optimal lawn health."
         }
       ],
       "faqs": [
         {
           "question": "How often should my lawn be mowed?",
-          "answer": "Typically every 1-2 weeks depending on growth season. We adjust frequency based on weather and grass type."
+          "answer": "Typically once a week during growing season, but we can adjust based on grass type and weather conditions."
         },
         {
           "question": "Do you use organic fertilizers?",
-          "answer": "Yes, we offer both organic and conventional options. We'll recommend the best fit for your lawn."
+          "answer": "Yes, we offer organic and slow-release fertilizer options to suit your preferences."
         }
       ],
-      "slug": "lawn-care-maintenance"
+      "slug": "lawn-maintenance"
     },
     {
       "icon": "02",
       "title": "Landscape Design & Installation",
-      "shortDescription": "Transform your property with custom landscape designs featuring native plants, flower beds, and more.",
-      "longDescription": "Our landscape design service brings your vision to life. We start with a consultation to understand your style, needs, and budget. Then we create a detailed plan with plant selections, hardscape elements, and layout. Our installation team handles everything from grading and planting to mulch and decorative stone. We specialize in drought-tolerant xeriscaping and colorful perennial gardens that thrive in Dallas.",
+      "shortDescription": "Create a stunning outdoor space with custom design and expert installation.",
+      "longDescription": "Our design-build service transforms your vision into reality. We handle everything from concept sketches to plant selection, hardscaping, and installation. Whether you want a tranquil garden, a modern xeriscape, or a vibrant flower bed, we deliver beautiful, functional landscapes that thrive in Dallas.",
       "benefits": [
-        "Personalized designs that reflect your taste",
-        "Expert plant selection for long-lasting beauty",
-        "Professional installation with attention to detail",
-        "Enhance curb appeal and property value"
+        "Personalized design tailored to your style",
+        "Increased property value",
+        "Low-maintenance, sustainable options",
+        "Expert plant selection for local climate"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We meet on-site to discuss your ideas, measure the space, and review your goals."
+          "description": "We discuss your ideas, budget, and site conditions to develop a design concept."
         },
         {
-          "title": "Design & Approval",
-          "description": "We create a 2D or 3D design, present it to you, and refine until perfect."
+          "title": "Design & Planning",
+          "description": "Our team creates detailed plans and 3D renderings for your approval before any work begins."
         },
         {
           "title": "Installation",
-          "description": "Our crew installs plants, beds, edging, and any hardscape features with precision."
+          "description": "Our skilled crew brings the design to life with precision planting, hardscaping, and finishing touches."
         }
       ],
       "faqs": [
         {
           "question": "How long does a typical design project take?",
-          "answer": "Design takes 1-2 weeks, installation varies from a few days to a few weeks depending on scope."
+          "answer": "Timeline depends on scope, but most residential projects are completed within 1-3 weeks."
         },
         {
-          "question": "Do you offer maintenance after installation?",
-          "answer": "Yes, we offer ongoing maintenance packages to keep your new landscape looking its best."
+          "question": "Can you work with a specific budget?",
+          "answer": "Absolutely. We design solutions that fit your budget without sacrificing quality."
         }
       ],
       "slug": "landscape-design-installation"
     },
     {
       "icon": "03",
-      "title": "Hardscaping & Outdoor Structures",
-      "shortDescription": "Add patios, walkways, retaining walls, and outdoor kitchens to create functional outdoor living spaces.",
-      "longDescription": "Our hardscaping services turn your yard into an extension of your home. We design and build patios using pavers, natural stone, or concrete; install walkways and driveways; construct retaining walls for erosion control and terraced gardens; and build outdoor kitchens, fire pits, and seating walls. Every project is engineered for durability and drainage, ensuring your investment lasts for years.",
+      "title": "Hardscaping & Patios",
+      "shortDescription": "Add durable, elegant hardscape features to your outdoor living area.",
+      "longDescription": "Enhance your property with custom patios, walkways, retaining walls, and outdoor kitchens. We use premium materials like natural stone, pavers, and concrete to create functional, beautiful spaces that complement your landscape. Our hardscaping is built to last through Dallas weather.",
       "benefits": [
-        "Increase usable outdoor living space",
-        "Durable materials built to last",
-        "Enhance property value and aesthetics",
-        "Seamless integration with existing landscape"
+        "Expanded outdoor living space",
+        "Durable, low-maintenance materials",
+        "Increased home value",
+        "Customizable designs"
       ],
       "process": [
         {
           "title": "Site Evaluation",
-          "description": "We assess drainage, soil, and space to determine the best approach."
+          "description": "We assess drainage, soil, and grading to ensure a solid foundation."
         },
         {
-          "title": "Design & Material Selection",
-          "description": "We help you choose materials and finalize a layout that fits your style and budget."
+          "title": "Material Selection",
+          "description": "We help you choose from a wide range of stones, pavers, and colors to match your style."
         },
         {
           "title": "Construction",
-          "description": "Our skilled team excavates, prepares base, installs materials, and finishes with precision."
+          "description": "Our masons and craftsmen install your hardscape with precision, ensuring long-lasting beauty."
         }
       ],
       "faqs": [
         {
-          "question": "What is the best material for a Dallas patio?",
-          "answer": "Pavers are popular for their durability and variety. Natural stone also works well. We'll help you choose based on use and budget."
+          "question": "How long does a patio installation take?",
+          "answer": "Most patios are completed in 3-5 days, depending on size and complexity."
         },
         {
-          "question": "Do you handle permits for hardscaping?",
-          "answer": "Yes, we obtain any necessary permits and ensure all work meets local codes."
+          "question": "Do you offer permeable pavers?",
+          "answer": "Yes, we offer permeable options for eco-friendly drainage solutions."
         }
       ],
-      "slug": "hardscaping-outdoor-structures"
+      "slug": "hardscaping-patios"
     },
     {
       "icon": "04",
       "title": "Irrigation & Drainage Solutions",
-      "shortDescription": "Efficient sprinkler systems and drainage solutions to keep your landscape healthy and dry.",
-      "longDescription": "Proper irrigation and drainage are critical for a thriving landscape. We design and install efficient sprinkler systems with smart controllers that adjust watering based on weather. We also solve drainage problems like standing water, erosion, and soggy lawns with French drains, dry wells, and grading solutions. Our systems conserve water while keeping your plants healthy.",
+      "shortDescription": "Efficient watering systems and drainage to protect your landscape.",
+      "longDescription": "Keep your landscape healthy with custom irrigation systems and proper drainage. We design and install sprinklers, drip irrigation, and French drains to optimize water usage and prevent erosion. Our solutions save you time and money while conserving water.",
       "benefits": [
-        "Reduce water waste with smart irrigation",
-        "Prevent lawn damage from over/under watering",
-        "Eliminate standing water and protect foundations",
-        "Low-maintenance, automated systems"
+        "Water-efficient systems",
+        "Reduced water bills",
+        "Prevents standing water and erosion",
+        "Automated, hassle-free operation"
       ],
       "process": [
         {
-          "title": "Assessment",
-          "description": "We evaluate your property's water needs and drainage issues."
-        },
-        {
           "title": "System Design",
-          "description": "We design a custom layout with zones, heads, and controller placement."
+          "description": "We map your property to create a zone-specific irrigation plan that covers all areas efficiently."
         },
         {
-          "title": "Installation & Tuning",
-          "description": "Our team installs the system, tests coverage, and programs the controller for efficiency."
+          "title": "Installation",
+          "description": "Our technicians install pipes, sprinklers, and controllers with minimal disruption to your landscape."
+        },
+        {
+          "title": "Testing & Adjustment",
+          "description": "We test the system thoroughly and adjust spray patterns to ensure even coverage."
         }
       ],
       "faqs": [
         {
-          "question": "How much does a sprinkler system cost?",
-          "answer": "Costs vary by property size and complexity. We provide free estimates with detailed pricing."
+          "question": "Do you install smart controllers?",
+          "answer": "Yes, we offer smart controllers that adjust watering based on weather and soil moisture."
         },
         {
-          "question": "Do you repair existing systems?",
-          "answer": "Yes, we offer repair services for sprinklers, valves, and drainage issues."
+          "question": "Can you fix drainage issues?",
+          "answer": "Absolutely. We assess and install French drains, dry wells, and grading solutions to redirect water."
         }
       ],
       "slug": "irrigation-drainage-solutions"
     }
   ],
   "about": {
-    "headline": "About Rodriguez Landscaping & Lawn service",
-    "mission": "To provide Dallas homeowners with exceptional landscaping services that enhance beauty, functionality, and property value through quality craftsmanship and personalized care.",
+    "headline": "About Rodriguez Landscaping & Lawn Service",
+    "mission": "To enhance the beauty and value of Dallas homes through exceptional landscaping services, built on integrity, craftsmanship, and environmental stewardship.",
     "story": [
-      "Rodriguez Landscaping & Lawn service was founded with a passion for creating beautiful outdoor spaces. Starting as a small lawn mowing operation, we grew into a full-service landscaping company serving the Dallas area. Our founder, a lifelong Dallas resident, understood the challenges of maintaining a lush landscape in the Texas climate and dedicated himself to mastering the best techniques and practices.",
-      "Today, we are a team of skilled professionals committed to excellence. We take pride in our reputation for reliability, attention to detail, and customer satisfaction. Every project, big or small, receives the same level of care and dedication. We believe in building lasting relationships with our clients by delivering results that exceed expectations."
+      "Rodriguez Landscaping & Lawn Service was founded over a decade ago with a simple mission: provide Dallas homeowners with reliable, high-quality landscaping at fair prices. What started as a small crew serving a handful of neighbors has grown into a trusted local business, thanks to our commitment to excellence and customer satisfaction.",
+      "Today, we serve residential clients across the Dallas metro area, from Lakewood to Highland Park. Our team of skilled designers, horticulturists, and craftsmen works tirelessly to transform ordinary yards into extraordinary outdoor living spaces. We take pride in our roots and treat every project as if it were our own home."
     ],
     "highlight": {
-      "stat": "500+",
-      "label": "Happy Dallas Homeowners"
+      "stat": "10+",
+      "label": "Years of Service in Dallas"
     },
     "coreValues": [
       {
-        "title": "Quality",
-        "description": "We use premium materials and proven methods to ensure lasting results."
-      },
-      {
-        "title": "Integrity",
-        "description": "Honest communication, transparent pricing, and doing what we promise."
+        "title": "Quality Craftsmanship",
+        "description": "We use top-grade materials and proven techniques to deliver lasting results."
       },
       {
         "title": "Customer Focus",
-        "description": "Your vision guides every project. We listen, adapt, and deliver."
+        "description": "Your vision guides every decision. We communicate openly and ensure your satisfaction."
       },
       {
-        "title": "Community",
-        "description": "We're proud to serve Dallas and contribute to beautiful neighborhoods."
+        "title": "Environmental Responsibility",
+        "description": "We adopt sustainable practices to protect Dallas’s natural resources."
+      },
+      {
+        "title": "Community Pride",
+        "description": "As a local family business, we’re invested in making our neighborhood beautiful."
       }
     ]
   },
   "contact": {
-    "headline": "Contact Rodriguez Landscaping & Lawn service",
-    "subheadline": "Ready to start your project? Reach out for a free estimate or consultation.",
-    "primaryCta": "Get a Free Quote",
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Contact us for a free consultation and estimate.",
+    "primaryCta": "Call (214) 778-7897",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Lakewood",
-      "White Rock",
-      "M Streets",
       "Highland Park",
       "University Park",
+      "Lakewood",
+      "White Rock",
       "Preston Hollow",
-      "North Dallas"
+      "Oak Lawn",
+      "Uptown"
     ]
   },
   "social_proof": {
-    "rating": 3.8,
+    "rating": "",
     "reviews": null
   },
   "meta": {
